@@ -1,0 +1,1 @@
+robocopy ..\src\ ..\nuget\node-sass-bundle\content *.* /mir /s /nc /ns /np /nfl /ndl /xa:h

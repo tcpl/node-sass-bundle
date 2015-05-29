@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>node-sass-bundle</id> 
+    <title>Quick repack of Service Stack's bundler with a later sass version and no JS packages</title>
+    <version>1.0.0</version> 
+    <authors>Amar Raja</authors> 
+    <owners>Amar Raja</owners>
+    <summary></summary>
+    <description>
+        Custom pack of https://github.com/ServiceStack/Bundler -- you'll be better using the original!
+    </description> 
+    <projectUrl>https://github.com/amar-tcpl/node-sass-bundle</projectUrl>
+    <licenseUrl>https://github.com/ServiceStack/Bundler/blob/master/LICENSE</licenseUrl>
+    <tags></tags>
+    <language>en-GB</language> 
+    <copyright>ServiceStack 2013 and contributors</copyright>
+  </metadata> 
+</package>
+
