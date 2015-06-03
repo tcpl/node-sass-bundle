@@ -3,7 +3,7 @@
   <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <id>node-sass-bundle</id> 
     <title>Quick repack of Service Stack's bundler with a later sass version and no JS packages</title>
-    <version>1.0.1</version> 
+    <version>1.1.0</version> 
     <authors>Amar Raja</authors> 
     <owners>Amar Raja</owners>
     <summary></summary>
